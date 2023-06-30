@@ -10,3 +10,4 @@ To run the model:
 2. Open Jupyter Notebook
 3. Open the folder Project|Code
 4. Open Project_Implementation_NishanKarki.ipynb in Jupyter Notebook
+5. Follow the steps in the tutorial
