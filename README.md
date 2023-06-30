@@ -1,8 +1,6 @@
 # Clustering-Algorithms-Tutorial
 The objective of the project is to generate a tutorial for the implementation of clustering algorithms (KMeans and DBSCAN)
 
-Running the model The model was created in the Jupyter Notebook. To run the model:
-
 Running the model
 The model was created in the Jupyter Notebook.
 To run the model:
